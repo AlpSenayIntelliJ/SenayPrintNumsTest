@@ -5,6 +5,6 @@ public class Main {
         System.out.println("-------------");
         hello.printNums(7, 4);
         System.out.println("-------------");
-        hello.printNums(1, 5);
+        hello.printNums(1, 6);
     }
 }
